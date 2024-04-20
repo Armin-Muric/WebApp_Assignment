@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Infrastructure/Database/webapp_database.mdf
+/Infrastructure/Database/webapp_database_log.ldf
