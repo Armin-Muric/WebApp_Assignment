@@ -5,6 +5,46 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\46704\\source\\repos\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\image 2.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\image 2.svg"
+    },
+    {
+      "Id": "C:\\Users\\46704\\source\\repos\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\image 3.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\image 3.svg"
+    },
+    {
+      "Id": "C:\\Users\\46704\\source\\repos\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\image 4.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\image 4.svg"
+    },
+    {
+      "Id": "C:\\Users\\46704\\source\\repos\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\image 5.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\image 5.svg"
+    },
+    {
+      "Id": "C:\\Users\\46704\\source\\repos\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\image 6.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\image 6.svg"
+    },
+    {
+      "Id": "C:\\Users\\46704\\source\\repos\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\image 7.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\image 7.svg"
+    },
+    {
+      "Id": "C:\\Users\\46704\\source\\repos\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\image 8.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\image 8.svg"
+    },
+    {
+      "Id": "C:\\Users\\46704\\source\\repos\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\image 9.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\image 9.svg"
+    },
+    {
+      "Id": "C:\\Users\\46704\\source\\repos\\Silicon_WebApp\\WebApp\\wwwroot\\images\\courses\\image.svg",
+      "PackagePath": "staticwebassets\\images\\courses\\image.svg"
+    },
+    {
+      "Id": "C:\\Users\\46704\\source\\repos\\Silicon_WebApp\\WebApp\\wwwroot\\images\\uploads\\profiles\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\uploads\\profiles\\avatar.jpg"
+    },
+    {
       "Id": "C:\\Users\\46704\\source\\repos\\Silicon_WebApp\\WebApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

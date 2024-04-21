@@ -141,3 +141,4 @@ C:\Users\46704\source\repos\Silicon_WebApp\WebApp\bin\Debug\net8.0\Infrastructur
 C:\Users\46704\source\repos\Silicon_WebApp\WebApp\bin\Debug\net8.0\Infrastructure.pdb
 C:\Users\46704\source\repos\Silicon_WebApp\WebApp\obj\Debug\net8.0\WebApp.csproj.AssemblyReference.cache
 C:\Users\46704\source\repos\Silicon_WebApp\WebApp\obj\Debug\net8.0\WebApp.csproj.Up2Date
+C:\Users\46704\source\repos\Silicon_WebApp\WebApp\bin\Debug\net8.0\Newtonsoft.Json.dll
